@@ -1,0 +1,305 @@
+CONFIDENTIAL BOARD MEETING MINUTES - SOLARIS AI
+ARCHIVE: 2021-2025
+--------------------------------------------------
+
+
+DATE: 2021-01-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q1 2021.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
+DATE: 2021-02-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q1 2021.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
+DATE: 2021-03-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q1 2021.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
+DATE: 2021-04-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q2 2021.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
+DATE: 2021-05-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q2 2021.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
+DATE: 2021-06-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q2 2021.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
+DATE: 2021-07-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q3 2021.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
+DATE: 2021-08-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q3 2021.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
+DATE: 2021-09-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q3 2021.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
+DATE: 2021-10-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q4 2021.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
+DATE: 2021-11-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q4 2021.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
+DATE: 2021-12-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q4 2021.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
+DATE: 2022-01-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q1 2022.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
+DATE: 2022-02-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q1 2022.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
+DATE: 2022-03-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q1 2022.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
+DATE: 2022-04-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q2 2022.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
+DATE: 2022-05-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q2 2022.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
+DATE: 2022-06-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q2 2022.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
+DATE: 2022-07-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q3 2022.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
+DATE: 2022-08-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q3 2022.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
+DATE: 2022-09-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q3 2022.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
+DATE: 2022-10-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q4 2022.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
+DATE: 2022-11-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q4 2022.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
+DATE: 2022-12-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q4 2022.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
+DATE: 2023-01-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q1 2023.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
+DATE: 2023-02-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q1 2023.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
+DATE: 2023-03-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q1 2023.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
+DATE: 2023-04-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q2 2023.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
+DATE: 2023-05-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q2 2023.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
+DATE: 2023-06-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q2 2023.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. KEY EVENT: We successfully raised Series B funding. Aggressive marketing expansion approved. This explains the revenue jump. 
+------------------------------
+DATE: 2023-07-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q3 2023.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
+DATE: 2023-08-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q3 2023.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
+DATE: 2023-09-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q3 2023.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
+DATE: 2023-10-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q4 2023.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
+DATE: 2023-11-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q4 2023.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
+DATE: 2023-12-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q4 2023.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
+DATE: 2024-01-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q1 2024.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
+DATE: 2024-02-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q1 2024.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
+DATE: 2024-03-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q1 2024.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
+DATE: 2024-04-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q2 2024.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
+DATE: 2024-05-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q2 2024.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
+DATE: 2024-06-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q2 2024.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
+DATE: 2024-07-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q3 2024.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. CRITICAL INCIDENT: Major security breach detected in the US-East Database. 48-hour downtime expected. PR team is drafting an apology letter. We anticipate significant customer backlash.
+------------------------------
+DATE: 2024-08-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q3 2024.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. CRISIS UPDATE: The 'Blackout' incident has resulted in the loss of 3 Enterprise clients (Acme Corp, Globex, Soylent). This directly correlates with the 10% churn spike. Engineering is migrating to AWS to prevent recurrence.
+------------------------------
+DATE: 2024-09-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q3 2024.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. RESTRUCTURING: The VP of Engineering has been let go due to the July incident. CTO is taking over interim duties. Mitigation costs are driving OpEx up.
+------------------------------
+DATE: 2024-10-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q4 2024.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
+DATE: 2024-11-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q4 2024.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
+DATE: 2024-12-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q4 2024.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
+DATE: 2025-01-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q1 2025.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. STRATEGY: New 'Security-First' branding is working. We are winning back customers. Churn is stabilizing below 2%.
+------------------------------
+DATE: 2025-02-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q1 2025.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
+DATE: 2025-03-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q1 2025.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
+DATE: 2025-04-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q2 2025.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
+DATE: 2025-05-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q2 2025.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
+DATE: 2025-06-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q2 2025.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
+DATE: 2025-07-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q3 2025.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
+DATE: 2025-08-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q3 2025.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
+DATE: 2025-09-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q3 2025.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
+DATE: 2025-10-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q4 2025.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
+DATE: 2025-11-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q4 2025.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
+DATE: 2025-12-01
+ATTENDEES: CEO, CTO, CFO, Board Members
+SUMMARY: The board reviewed the performance for Q4 2025.
+Operational efficiency remains a key priority. The engineering team is deploying new microservices. Sales team is pushing for Q-end quotas. Standard operations continuing. No major incidents to report. Morale is stable.
+------------------------------
